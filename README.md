@@ -22,4 +22,6 @@
    
 <h3><samp> Profile Visitors - </samp></h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KshitizKhandal.KshitizKhandal)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=KshitizKhandal.KshitizKhandal)
+ -->
+ ![](https://komarev.com/ghpvc/?username=KshitizKhandal&color=orange&style=flat&label=Profile+Visitors)
