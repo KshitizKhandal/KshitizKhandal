@@ -1,5 +1,5 @@
-<h1><samp> Hello there, I'm Kshitiz <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </samp></h1>
-
+<h1><samp> Hello there, I'm Kshitiz <img src =  width = 50px> </samp></h1>
+<!-- "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" -->
 <h3><samp> About Me - </samp></h3>
 
 <img width="45%" align="right" alt="Github" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
