@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" padding="10">
-  <h2>Developer ✦ Designer ✦ Engineer ✦ Gamer</h2>
+  <h2>Developer • Designer • Engineer • Gamer</h2>
 </div>
 </br>
 <div align="center" padding="10">
