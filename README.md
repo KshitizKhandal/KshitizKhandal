@@ -11,7 +11,7 @@
 
 <div align="left" padding="30">
   <h2>Hey there! 👋</h2>
-  <h3>I'm Kshitiz! Software Engineer & Product Designer crafting elegant, user-friendly solutions.</h3>
+  <h2>I'm Kshitiz! Software Engineer & Product Designer crafting elegant, user-friendly solutions.</h2>
 </div>
 
 </br>
